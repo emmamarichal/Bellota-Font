@@ -875,11 +875,11 @@ value = n;
 },
 {
 name = hheaAscender;
-value = 1175;
+value = 968;
 },
 {
 name = hheaDescender;
-value = -325;
+value = -290;
 },
 {
 name = hheaLineGap;
@@ -887,11 +887,11 @@ value = 0;
 },
 {
 name = typoAscender;
-value = 1175;
+value = 968;
 },
 {
 name = typoDescender;
-value = -325;
+value = -290;
 },
 {
 name = typoLineGap;
@@ -1018,11 +1018,11 @@ value = n;
 },
 {
 name = hheaAscender;
-value = 1175;
+value = 968;
 },
 {
 name = hheaDescender;
-value = -325;
+value = -290;
 },
 {
 name = hheaLineGap;
@@ -1030,11 +1030,11 @@ value = 0;
 },
 {
 name = typoAscender;
-value = 1175;
+value = 968;
 },
 {
 name = typoDescender;
-value = -325;
+value = -290;
 },
 {
 name = typoLineGap;
@@ -1187,11 +1187,11 @@ value = n;
 },
 {
 name = hheaAscender;
-value = 1175;
+value = 968;
 },
 {
 name = hheaDescender;
-value = -325;
+value = -290;
 },
 {
 name = hheaLineGap;
@@ -1199,11 +1199,11 @@ value = 0;
 },
 {
 name = typoAscender;
-value = 1175;
+value = 968;
 },
 {
 name = typoDescender;
-value = -325;
+value = -290;
 },
 {
 name = typoLineGap;
