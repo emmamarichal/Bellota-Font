@@ -1,5 +1,5 @@
 {
-.appVersion = "3509";
+.appVersion = "3532";
 .formatVersion = 3;
 axes = (
 {
@@ -15,10 +15,6 @@ name = Uppercase;
 }
 );
 customParameters = (
-{
-name = openTypeNameVersion;
-value = "Version 5.003";
-},
 {
 name = openTypeOS2VendorID;
 value = PIXL;
