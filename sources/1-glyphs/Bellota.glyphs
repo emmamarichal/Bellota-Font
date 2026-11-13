@@ -933,7 +933,7 @@ value = 1175;
 },
 {
 name = winDescent;
-value = 325;
+value = 448;
 },
 {
 name = "Axis Location";
@@ -1107,7 +1107,7 @@ value = 1175;
 },
 {
 name = winDescent;
-value = 325;
+value = 448;
 },
 {
 name = "Axis Location";
@@ -1267,7 +1267,7 @@ value = 1175;
 },
 {
 name = winDescent;
-value = 325;
+value = 448;
 },
 {
 name = "Axis Location";
