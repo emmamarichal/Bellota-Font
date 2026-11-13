@@ -101142,43 +101142,385 @@ metricRight = "Softsign-cy";
 glyphname = "Nje-cy";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (334,0);
+},
+{
+name = center;
+pos = (336,498);
+},
+{
+name = top;
+pos = (335,684);
+},
+{
+name = topleft;
+pos = (25,684);
+}
+);
 layerId = "49C16FD3-6177-408B-A733-AEB3898BB77C";
 shapes = (
 {
-ref = H.ss01;
+closed = 1;
+nodes = (
+(896,-10,o),
+(984,72,o),
+(984,193,cs),
+(984,316,o),
+(896,400,o),
+(768,400,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(588,400,l),
+(588,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(549,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(549,384,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(122,384,l),
+(122,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(84,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(84,0,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(122,0,l),
+(122,348,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(549,348,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(549,0,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 96.20345;
+};
+}),
+(558,0,l),
+(593,-4,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = 96.17018;
+};
+}),
+(620,-7,o),
+(699,-10,o),
+(768,-10,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+})
+);
 },
 {
-alignment = -1;
-pos = (465,0);
-ref = "Softsign-cy";
+closed = 1;
+nodes = (
+(695,25,o),
+(663,25,o),
+(588,31,c),
+(588,364,l),
+(760,364,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(875,364,o),
+(944,298,o),
+(944,193,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(944,90,o),
+(875,25,o),
+(760,25,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+})
+);
 }
 );
 width = 1018;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (353,0);
+},
+{
+name = center;
+pos = (354,508);
+},
+{
+name = top;
+pos = (353,684);
+},
+{
+name = topleft;
+pos = (19,684);
+}
+);
 layerId = m004;
 shapes = (
 {
-ref = H.ss01;
+closed = 1;
+nodes = (
+(861,-15,o),
+(967,73,o),
+(967,214,cs),
+(967,346,o),
+(863,430,o),
+(714,430,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(644,430,l),
+(644,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(478,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(478,418,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(227,418,l),
+(227,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(62,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "180";
+};
+}),
+(62,0,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+}),
+(227,0,l),
+(227,280,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+}),
+(478,280,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "180";
+};
+}),
+(478,0,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+}),
+(496,0,l),
+(554,-7,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = 96.5198;
+};
+}),
+(601,-13,o),
+(656,-15,o),
+(694,-15,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+})
+);
 },
 {
-alignment = -1;
-pos = (417,0);
-ref = "Softsign-cy";
+closed = 1;
+nodes = (
+(690,122,o),
+(665,123,o),
+(644,125,c),
+(644,292,l),
+(714,292,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(768,292,o),
+(799,260,o),
+(799,211,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(799,162,o),
+(770,122,o),
+(714,122,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+})
+);
 }
 );
 width = 982;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (347,0);
+},
+{
+name = center;
+pos = (348,509);
+},
+{
+name = top;
+pos = (348,684);
+},
+{
+name = topleft;
+pos = (32,684);
+}
+);
 layerId = "BDC4F23E-8387-43BA-9F0D-D808B5DC489D";
 shapes = (
 {
-ref = H.ss01;
+closed = 1;
+nodes = (
+(873,-11,o),
+(983,55,o),
+(983,197,cs),
+(983,318,o),
+(887,409,o),
+(748,409,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(613,409,l),
+(613,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(541,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(541,394,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(152,394,l),
+(152,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+}),
+(80,684,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(80,0,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(152,0,l),
+(152,327,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(541,327,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(541,0,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(565,0,l),
+(598,-5,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = 96.17018;
+};
+}),
+(623,-9,o),
+(684,-11,o),
+(736,-11,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+})
+);
 },
 {
-alignment = -1;
-pos = (461,0);
-ref = "Softsign-cy";
+closed = 1;
+nodes = (
+(690,56,o),
+(653,57,o),
+(613,61,c),
+(613,342,l),
+(752,342,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = 90;
+};
+}),
+(850,342,o),
+(909,287,o),
+(909,197,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 180;
+};
+}),
+(909,109,o),
+(849,56,o),
+(742,56,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 270;
+};
+})
+);
 }
 );
 width = 1013;
@@ -127463,12 +127805,11 @@ nodes = (
 (384,449,o),
 (347,400,o),
 (256,353,cs),
-(147,297,o),
-(131,230,o),
-(131,132,c),
-(169,132,l),
-(169,251,o),
-(171,369,o),
+(217,333,o),
+(189,311,o),
+(170,286,c),
+(170,352,o),
+(171,420,o),
 (171,488,c),
 (129,488,l),
 (129,369,o),
@@ -127490,8 +127831,8 @@ shapes = (
 closed = 1;
 nodes = (
 (259,176,l),
-(259,216,o),
-(259,217,o),
+(259,189,o),
+(259,215,o),
 (262,229,cs),
 (266,246,o),
 (278,246,o),
@@ -127518,15 +127859,14 @@ nodes = (
 (300,601,o),
 (341,566,o),
 (341,508,cs),
-(341,461,o),
-(315,421,o),
-(250,388,cs),
-(161,342,o),
-(123,303,o),
-(123,176,c),
-(259,176,l),
-(259,289,o),
-(274,371,o),
+(341,480,o),
+(332,455,o),
+(310,432,cs),
+(300,421,o),
+(287,410,o),
+(271,400,c),
+(273,427,o),
+(274,454,o),
 (274,484,c),
 (109,484,l),
 (109,371,o),
@@ -127548,8 +127888,8 @@ shapes = (
 closed = 1;
 nodes = (
 (188,143,l),
-(188,181,o),
-(188,208,o),
+(188,165,o),
+(187,205,o),
 (191,226,cs),
 (197,263,o),
 (218,276,o),
@@ -127579,12 +127919,11 @@ nodes = (
 (366,452,o),
 (334,409,o),
 (252,367,cs),
-(159,319,o),
-(125,251,o),
-(125,143,c),
-(188,143,l),
-(188,257,o),
-(192,371,o),
+(227,354,o),
+(208,341,o),
+(190,324,c),
+(191,379,o),
+(192,431,o),
 (192,485,c),
 (121,485,l),
 (121,371,o),
@@ -128889,12 +129228,11 @@ nodes = (
 (145,540,o),
 (130,441,o),
 (135,386,cs),
-(141,311,o),
-(214,277,o),
-(294,277,c),
-(294,311,l),
-(214,311,o),
-(140,280,o),
+(139,341,o),
+(165,312,o),
+(203,295,c),
+(164,278,o),
+(138,249,o),
 (134,202,cs),
 (129,147,o),
 (146,48,o),
@@ -128940,12 +129278,11 @@ nodes = (
 (86,528,o),
 (67,418,o),
 (74,368,cs),
-(85,285,o),
-(204,234,o),
-(309,234,c),
-(309,362,l),
-(208,362,o),
-(85,304,o),
+(78,339,o),
+(94,315,o),
+(118,295,c),
+(94,274,o),
+(78,249,o),
 (74,220,cs),
 (67,170,o),
 (86,59,o),
@@ -128991,12 +129328,11 @@ nodes = (
 (123,530,o),
 (106,439,o),
 (111,382,cs),
-(119,296,o),
-(202,261,o),
-(293,261,c),
-(293,327,l),
-(202,327,o),
-(118,288,o),
+(115,341,o),
+(135,312,o),
+(164,293,c),
+(134,273,o),
+(114,243,o),
 (111,205,cs),
 (106,149,o),
 (123,56,o),
